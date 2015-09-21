@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CircularQueue", "CircularQueue\CircularQueue.vcproj", "{520E2760-B808-4101-8C6C-005AF2D2D335}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{520E2760-B808-4101-8C6C-005AF2D2D335}.Debug|Win32.ActiveCfg = Debug|Win32
+		{520E2760-B808-4101-8C6C-005AF2D2D335}.Debug|Win32.Build.0 = Debug|Win32
+		{520E2760-B808-4101-8C6C-005AF2D2D335}.Release|Win32.ActiveCfg = Release|Win32
+		{520E2760-B808-4101-8C6C-005AF2D2D335}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

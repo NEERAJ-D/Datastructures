@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stack_Infix_to_postfix", "Stack_Infix_to_postfix\Stack_Infix_to_postfix.vcproj", "{B5DC75C7-0E5E-4895-992B-7BC23850EBD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5DC75C7-0E5E-4895-992B-7BC23850EBD1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B5DC75C7-0E5E-4895-992B-7BC23850EBD1}.Debug|Win32.Build.0 = Debug|Win32
+		{B5DC75C7-0E5E-4895-992B-7BC23850EBD1}.Release|Win32.ActiveCfg = Release|Win32
+		{B5DC75C7-0E5E-4895-992B-7BC23850EBD1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
